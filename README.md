@@ -1,6 +1,6 @@
 ### Hello there 👋
 <a href="https://www.linkedin.com/in/jakobkruse1/">
-  <img align="right" alt="Jakob's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="right" alt="Jakob's LinkedIn" width="22px" src="https://raw.githubusercontent.com/jakobkruse1/jakobkruse1/main/assets/linkedIn_icon.svg" />
 </a><br/>
 I am Jakob Kruse, a passionate software developer and expert in artificial intelligence. I am based in Munich, Germany.
 <br/><br/>  
